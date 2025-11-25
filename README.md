@@ -12,4 +12,4 @@ Painel kanban simples para listar tarefas por status, filtrar por prioridade/loc
 2) Suba o servidor de desenvolvimento  
 `npm run dev`  
 Abra o endereço exibido no terminal (por padrão: `http://localhost:5173`).
-
+ OBS: todos os mocks estão na pasta /src/data/tasks.js
